@@ -8,7 +8,7 @@ This project implements training pipelines using Multi-Layer Perceptrons (MLPs) 
 The aim is to compare model performance when trained on **balanced vs. imbalanced** datasets and understand the role of **data augmentation** in digit recognition.
 
 ---
-🔗 **Run the Jupyter Notebook on Google Colab:** [Open in Colab](https://colab.research.google.com/drive/16QcEDsXp8Z8UBMnYIz7aTlsk4f6I1yWA#scrollTo=r92V_kAVV2oq)
+ ## Run the Jupyter Notebook on Google Colab: [Open in Colab](https://colab.research.google.com/drive/16QcEDsXp8Z8UBMnYIz7aTlsk4f6I1yWA#scrollTo=r92V_kAVV2oq)
 
 
 ##  How It Works
