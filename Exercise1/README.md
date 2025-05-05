@@ -42,6 +42,12 @@ The aim is to compare model performance when trained on **balanced vs. imbalance
 ### Loss
 ![img](src/loss.png)
 
+## Results - 8 puzzle
+![ .](src/img1.png)
+![ .](src/img2.png)
+![ .](src/img3.png)
+
+
 ##  Conclusion
 
 This exercise highlights the effectiveness of well-balanced datasets and the significance of data augmentation in training deep learning models. It also demonstrates how modular and reusable pipelines can be created for a variety of computer vision tasks using MLPs. Balanced datasets consistently yielded higher generalization performance across different testing conditions.
