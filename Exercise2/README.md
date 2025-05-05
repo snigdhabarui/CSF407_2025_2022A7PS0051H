@@ -23,7 +23,7 @@ In this project:
   `Input Image -> Predicted Tile Order -> Reasoned Steps`.
 
 ---
-
+## Results
 ## Check Point 1:
 
 ![checkpoint 1](src/solution_path_checkpoint_1.png)
@@ -34,6 +34,6 @@ In this project:
 ![checkpoint 2](src/solution_path_checkpoint_2.png)
 
 
-## Description
+## Conclusion
 
 This exercise showcases how neural models can be combined with powerful reasoning capabilities of LLMs to replace traditional algorithmic approaches like A*. The visualization helps understand the model's decision-making process and bridges low-level vision tasks with high-level reasoning. This opens up exciting pathways for hybrid AI systems in planning and robotics.
