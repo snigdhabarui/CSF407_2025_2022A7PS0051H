@@ -37,8 +37,8 @@ The 3x3 puzzle grid is displayed in a human-readable format using characters (li
 The LLM prompt:
 - Describes the 8-puzzle and how it works.
 - Asks for a JSON-formatted response that includes:
-     Each intermediate state.
-     The move taken to reach the state.
+     - Each intermediate state.
+     - The move taken to reach the state.
 -Gemini responds with a JSON-like list of all intermediate steps from start to finish.
 
 7. Parsing the LLM Response
