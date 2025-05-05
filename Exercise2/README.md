@@ -30,6 +30,7 @@ In this project:
   `Input Image -> Predicted Tile Order -> Reasoned Steps`.
 
 ---
+# PART B
 ## Results
 The checkpoints are stored in (.pth) file, not uploaded here as they were too large but included in the zip folder submitted. 
 ## Check Point 1:
@@ -40,6 +41,9 @@ The checkpoints are stored in (.pth) file, not uploaded here as they were too la
 
 
 ![checkpoint 2](src/solution_path_checkpoint_2.png)
+
+![checkpoint](src/img4.png)
+
 
 
 ## Conclusion
