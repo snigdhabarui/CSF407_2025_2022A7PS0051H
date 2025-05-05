@@ -21,6 +21,10 @@ In this project:
 
 ---
 
+Exercise2/src/solution_path_checkpoint_1.png
+![checkpoint 1](Exercise2/src/solution_path_checkpoint_1.png
+)
+
 ## Description
 
 This exercise showcases how neural models can be combined with powerful reasoning capabilities of LLMs to replace traditional algorithmic approaches like A*. The visualization helps understand the model's decision-making process and bridges low-level vision tasks with high-level reasoning. This opens up exciting pathways for hybrid AI systems in planning and robotics.
