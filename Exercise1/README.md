@@ -29,6 +29,18 @@ The aim is to compare model performance when trained on **balanced vs. imbalance
    - Training and validation metrics are saved and plotted for analysis.
 
 ---
+## Results - Synthetic Phone Numbers
+### Accuracy
+![checkpoint 1](src/accuracy.png)
+![checkpoint 1](src/cross_accuracy.png)
+### Precision
+![img](src/precision.png)
+![img](src/cross_precision.png)
+### Recall
+![img](src/recall.png)
+![img](src/cross_recall.png)
+### Loss
+![img](src/loss.png)
 
 ##  Conclusion
 
