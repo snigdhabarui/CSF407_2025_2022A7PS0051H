@@ -1,0 +1,17 @@
+name: CSF407_2025_2022A7PS0051H
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+      - matplotlib
+      - numpy
+      - pandas
+      - scikit-learn
+      - tqdm
+      - pillow
+      - torch
+      - torchvision
+      - torchaudio
