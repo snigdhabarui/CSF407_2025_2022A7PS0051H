@@ -9,6 +9,14 @@ This project implements an end-to-end 8-puzzle solver pipeline that integrates:
 ![8puzzle](src/img1.png)
 
 ---
+### To run
+
+### Run using this:
+
+```bash
+python 8PuzzleSolver.py --model_weights checkpoints/checkpoint_1.pth checkpoints/checkpoint_2.pth \
+--initial_state images/img1.png --goal_state images/img2.png --config config.json
+```
 
 ## Description
 
