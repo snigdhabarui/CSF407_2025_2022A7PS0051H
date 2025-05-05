@@ -1,3 +1,0 @@
-Run using this:
-
-python 8PuzzleSolver.py --model_weights checkpoints/checkpoint_1.pth checkpoints/checkpoint_2.pth  --initial_state images/img1.png --goal_state images/img2.png --config config.json
