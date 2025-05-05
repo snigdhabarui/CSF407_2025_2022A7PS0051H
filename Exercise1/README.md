@@ -43,9 +43,9 @@ The aim is to compare model performance when trained on **balanced vs. imbalance
 ![img](src/loss.png)
 
 ## Results - 8 puzzle
-![ .](src/img1.png)
-![ .](src/img2.png)
-![ .](src/img3.png)
+![ 1](src/img1.png)
+![ 2](src/img2.png)
+![ 3](src/img3.png)
 
 
 ##  Conclusion
