@@ -1,0 +1,48 @@
+[
+  {
+    "configuration": [
+      [
+        4,
+        6,
+        5
+      ],
+      [
+        5,
+        2,
+        2
+      ],
+      [
+        7,
+        6,
+        2
+      ]
+    ],
+    "move": null,
+    "cost": 0,
+    "manhattan_distance": 1,
+    "total_cost": 1
+  },
+  {
+    "configuration": [
+      [
+        4,
+        6,
+        5
+      ],
+      [
+        5,
+        2,
+        2
+      ],
+      [
+        7,
+        6,
+        2
+      ]
+    ],
+    "move": "up",
+    "cost": 1,
+    "manhattan_distance": 0,
+    "total_cost": 1
+  }
+]

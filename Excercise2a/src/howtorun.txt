@@ -1,0 +1,4 @@
+Run using this:
+
+YOU NEED TO GET A GEMINI API KEY FOR THIS AND SET IT AS AN ENV VARIABLE IN A .env FILE in the same directory
+python 8PuzzleSolver.py --model_weights checkpoint_2.pth --initial_state images/img1.png --goal_state images/img2.png --config config.json

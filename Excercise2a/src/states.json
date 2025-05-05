@@ -1,0 +1,600 @@
+[
+  {
+    "configuration": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        7,
+        4,
+        6
+      ],
+      [
+        8,
+        0,
+        5
+      ]
+    ],
+    "move": null,
+    "cost": 0,
+    "manhattan_distance": 7,
+    "total_cost": 7
+  },
+  {
+    "configuration": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        7,
+        0,
+        6
+      ],
+      [
+        8,
+        4,
+        5
+      ]
+    ],
+    "move": "up",
+    "cost": 1,
+    "manhattan_distance": 7,
+    "total_cost": 8
+  },
+  {
+    "configuration": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        7,
+        6,
+        0
+      ],
+      [
+        8,
+        4,
+        5
+      ]
+    ],
+    "move": "right",
+    "cost": 2,
+    "manhattan_distance": 7,
+    "total_cost": 9
+  },
+  {
+    "configuration": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        7,
+        6,
+        5
+      ],
+      [
+        8,
+        4,
+        0
+      ]
+    ],
+    "move": "right",
+    "cost": 3,
+    "manhattan_distance": 6,
+    "total_cost": 9
+  },
+  {
+    "configuration": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        7,
+        6,
+        5
+      ],
+      [
+        8,
+        0,
+        4
+      ]
+    ],
+    "move": "down",
+    "cost": 4,
+    "manhattan_distance": 6,
+    "total_cost": 10
+  },
+  {
+    "configuration": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        7,
+        0,
+        5
+      ],
+      [
+        8,
+        6,
+        4
+      ]
+    ],
+    "move": "up",
+    "cost": 5,
+    "manhattan_distance": 6,
+    "total_cost": 11
+  },
+  {
+    "configuration": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        7,
+        5,
+        0
+      ],
+      [
+        8,
+        6,
+        4
+      ]
+    ],
+    "move": "right",
+    "cost": 6,
+    "manhattan_distance": 7,
+    "total_cost": 13
+  },
+  {
+    "configuration": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        7,
+        5,
+        4
+      ],
+      [
+        8,
+        6,
+        0
+      ]
+    ],
+    "move": "down",
+    "cost": 7,
+    "manhattan_distance": 6,
+    "total_cost": 13
+  },
+  {
+    "configuration": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        7,
+        5,
+        4
+      ],
+      [
+        8,
+        0,
+        6
+      ]
+    ],
+    "move": "right",
+    "cost": 8,
+    "manhattan_distance": 5,
+    "total_cost": 13
+  },
+  {
+    "configuration": [
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        7,
+        0,
+        4
+      ],
+      [
+        8,
+        5,
+        6
+      ]
+    ],
+    "move": "up",
+    "cost": 9,
+    "manhattan_distance": 5,
+    "total_cost": 14
+  },
+  {
+    "configuration": [
+      [
+        1,
+        0,
+        3
+      ],
+      [
+        7,
+        2,
+        4
+      ],
+      [
+        8,
+        5,
+        6
+      ]
+    ],
+    "move": "left",
+    "cost": 10,
+    "manhattan_distance": 5,
+    "total_cost": 15
+  },
+  {
+    "configuration": [
+      [
+        1,
+        3,
+        0
+      ],
+      [
+        7,
+        2,
+        4
+      ],
+      [
+        8,
+        5,
+        6
+      ]
+    ],
+    "move": "right",
+    "cost": 11,
+    "manhattan_distance": 5,
+    "total_cost": 16
+  },
+  {
+    "configuration": [
+      [
+        1,
+        3,
+        4
+      ],
+      [
+        7,
+        2,
+        0
+      ],
+      [
+        8,
+        5,
+        6
+      ]
+    ],
+    "move": "down",
+    "cost": 12,
+    "manhattan_distance": 5,
+    "total_cost": 17
+  },
+  {
+    "configuration": [
+      [
+        1,
+        3,
+        4
+      ],
+      [
+        7,
+        2,
+        6
+      ],
+      [
+        8,
+        5,
+        0
+      ]
+    ],
+    "move": "right",
+    "cost": 13,
+    "manhattan_distance": 4,
+    "total_cost": 17
+  },
+  {
+    "configuration": [
+      [
+        1,
+        3,
+        4
+      ],
+      [
+        7,
+        2,
+        6
+      ],
+      [
+        8,
+        0,
+        5
+      ]
+    ],
+    "move": "right",
+    "cost": 14,
+    "manhattan_distance": 3,
+    "total_cost": 17
+  },
+  {
+    "configuration": [
+      [
+        1,
+        3,
+        4
+      ],
+      [
+        7,
+        0,
+        6
+      ],
+      [
+        8,
+        2,
+        5
+      ]
+    ],
+    "move": "up",
+    "cost": 15,
+    "manhattan_distance": 3,
+    "total_cost": 18
+  },
+  {
+    "configuration": [
+      [
+        1,
+        0,
+        4
+      ],
+      [
+        7,
+        3,
+        6
+      ],
+      [
+        8,
+        2,
+        5
+      ]
+    ],
+    "move": "left",
+    "cost": 16,
+    "manhattan_distance": 3,
+    "total_cost": 19
+  },
+  {
+    "configuration": [
+      [
+        1,
+        6,
+        4
+      ],
+      [
+        7,
+        3,
+        0
+      ],
+      [
+        8,
+        2,
+        5
+      ]
+    ],
+    "move": "down",
+    "cost": 17,
+    "manhattan_distance": 3,
+    "total_cost": 20
+  },
+  {
+    "configuration": [
+      [
+        1,
+        6,
+        4
+      ],
+      [
+        7,
+        3,
+        5
+      ],
+      [
+        8,
+        2,
+        0
+      ]
+    ],
+    "move": "right",
+    "cost": 18,
+    "manhattan_distance": 3,
+    "total_cost": 21
+  },
+  {
+    "configuration": [
+      [
+        1,
+        6,
+        4
+      ],
+      [
+        7,
+        3,
+        5
+      ],
+      [
+        8,
+        0,
+        2
+      ]
+    ],
+    "move": "right",
+    "cost": 19,
+    "manhattan_distance": 2,
+    "total_cost": 21
+  },
+  {
+    "configuration": [
+      [
+        1,
+        6,
+        4
+      ],
+      [
+        7,
+        0,
+        5
+      ],
+      [
+        8,
+        3,
+        2
+      ]
+    ],
+    "move": "up",
+    "cost": 20,
+    "manhattan_distance": 2,
+    "total_cost": 22
+  },
+  {
+    "configuration": [
+      [
+        1,
+        0,
+        4
+      ],
+      [
+        7,
+        6,
+        5
+      ],
+      [
+        8,
+        3,
+        2
+      ]
+    ],
+    "move": "left",
+    "cost": 21,
+    "manhattan_distance": 1,
+    "total_cost": 22
+  },
+  {
+    "configuration": [
+      [
+        1,
+        0,
+        4
+      ],
+      [
+        6,
+        7,
+        5
+      ],
+      [
+        8,
+        3,
+        2
+      ]
+    ],
+    "move": "down",
+    "cost": 22,
+    "manhattan_distance": 1,
+    "total_cost": 23
+  },
+  {
+    "configuration": [
+      [
+        1,
+        0,
+        4
+      ],
+      [
+        6,
+        3,
+        5
+      ],
+      [
+        8,
+        7,
+        2
+      ]
+    ],
+    "move": "down",
+    "cost": 23,
+    "manhattan_distance": 1,
+    "total_cost": 24
+  },
+  {
+    "configuration": [
+      [
+        1,
+        0,
+        4
+      ],
+      [
+        6,
+        3,
+        2
+      ],
+      [
+        8,
+        7,
+        5
+      ]
+    ],
+    "move": "right",
+    "cost": 24,
+    "manhattan_distance": 1,
+    "total_cost": 25
+  },
+  {
+    "configuration": [
+      [
+        1,
+        0,
+        4
+      ],
+      [
+        6,
+        3,
+        2
+      ],
+      [
+        7,
+        8,
+        5
+      ]
+    ],
+    "move": "down",
+    "cost": 25,
+    "manhattan_distance": 0,
+    "total_cost": 25
+  }
+]
