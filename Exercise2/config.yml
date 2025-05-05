@@ -1,1 +1,22 @@
-name:
+name: CSF407_2025_2022A7PS0051H
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+      - torch
+      - torchvision
+      - google-genai==1.7.0
+      - google-generativeai
+      - google-api-core
+      - google-api-python-client
+      - python-dotenv
+      - matplotlib
+      - numpy
+      - scipy
+      - pillow
+      - IPython
+      - seaborne
+      - ipywidgets
