@@ -35,29 +35,15 @@ The 3x3 puzzle grid is displayed in a human-readable format using characters (li
 
 6. Calling the LLM (Gemini)
 The LLM prompt:
-
-Describes the 8-puzzle and how it works.
-
-Requests solving using A* with Manhattan distance.
-
-Asks for a JSON-formatted response that includes:
-
-Each intermediate state.
-
-The move taken to reach the state.
-
-The cost so far.
-
-The Manhattan distance from the goal.
-
-The total cost (cost + heuristic).
-
-Gemini responds with a JSON-like list of all intermediate steps from start to finish.
+- Describes the 8-puzzle and how it works.
+- Asks for a JSON-formatted response that includes:
+     Each intermediate state.
+     The move taken to reach the state.
+-Gemini responds with a JSON-like list of all intermediate steps from start to finish.
 
 7. Parsing the LLM Response
 The JSON portion of the LLM's response is extracted. If the output is wrapped in markdown formatting (e.g., ```json), it is stripped out. The resulting string is parsed into Python objects using the json library. If parsing fails, a backup approach using regular expressions is used.
 
 8. Output Handling
-If the response is valid JSON, it is saved to states.json.
-
-If not, the raw LLM output is saved to llm_response_raw.txt to inspect and debug the failure.
+- If the response is valid JSON, it is saved to states.json.
+- If not, the raw LLM output is saved to llm_response_raw.txt to inspect and debug the failure.
