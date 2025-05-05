@@ -22,7 +22,7 @@ In this project:
 ---
 
 
-![checkpoint 1](Exercise2/src/solution_path_checkpoint_1.png)
+![checkpoint 1](src/solution_path_checkpoint_1.png)
 
 ## Description
 
