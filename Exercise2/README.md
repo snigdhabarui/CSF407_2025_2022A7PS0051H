@@ -21,8 +21,12 @@ In this project:
 
 ---
 
-
+Check Point 1:
 ![checkpoint 1](src/solution_path_checkpoint_1.png)
+
+Check Point 2:
+![checkpoint 2](src/solution_path_checkpoint_2.png)
+
 
 ## Description
 
