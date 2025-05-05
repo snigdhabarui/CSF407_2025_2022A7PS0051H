@@ -9,7 +9,6 @@ This project implements an end-to-end 8-puzzle solver pipeline that integrates:
 ![8puzzle](src/img1.png)
 
 ---
-### To run
 
 ### Run using this:
 
