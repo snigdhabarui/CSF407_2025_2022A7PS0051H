@@ -5,6 +5,9 @@ This project implements an end-to-end 8-puzzle solver pipeline that integrates:
 - A Language Model (LLM) to reason through state transitions instead of traditional A* search.
 - Visualization of puzzle states through each step of inference and decision-making.
 
+  
+![8puzzle](src/img1.png)
+
 ---
 
 ## Description
