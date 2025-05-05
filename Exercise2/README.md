@@ -1,5 +1,7 @@
-# PART A
 # 8-Puzzle Problem Solver using Neural Networks & LLM Reasoning
+Due to the large size of the checkpoint files and high runtime on Google Colab, the model was run locally. The final `8PuzzleSolver.py` script and the results (including visual outputs) are uploaded here for reference.
+
+## PART A
 
 This project implements an end-to-end 8-puzzle solver pipeline that integrates:
 - A trained Neural Network (NN) model to recognize puzzle tile configurations from image input.
