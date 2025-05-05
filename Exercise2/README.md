@@ -24,6 +24,7 @@ In this project:
 
 ---
 ## Results
+The checkpoints are stored in (.pth) file, not uploaded here as they were too large but included in the zip folder submitted. 
 ## Check Point 1:
 
 ![checkpoint 1](src/solution_path_checkpoint_1.png)
