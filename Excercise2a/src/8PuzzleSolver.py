@@ -216,10 +216,10 @@ def main():
     initial_image = preprocess_image(args.initial_state)
     goal_image = preprocess_image(args.goal_state)
     
-    #initial_state = predict_puzzle_state(model, initial_image)
-    #goal_state = predict_puzzle_state(model, goal_image)    
-    initial_state=[[1,2,3],[7,4,6],[8,0,5]]
-    goal_state=[[1,0,4],[6,3,2],[7,8,5]]
+    initial_state = predict_puzzle_state(model, initial_image)
+    goal_state = predict_puzzle_state(model, goal_image)    
+    #initial_state=[[1,2,3],[7,4,6],[8,0,5]]
+    #goal_state=[[1,0,4],[6,3,2],[7,8,5]]
     print("Predicted Initial State:")
     print(initial_state)
     print("Predicted Goal State:")
